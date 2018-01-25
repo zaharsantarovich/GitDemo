@@ -10,6 +10,7 @@ namespace ConsoleApp
 	{
 		static void Main(string[] args)
 		{
+			// Implemented Admin-001 feature.
 		}
 	}
 }
