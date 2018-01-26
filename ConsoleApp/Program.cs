@@ -13,5 +13,10 @@ namespace ConsoleApp
 			// Implemented Admin-001 feature.
 			// Implemented Admin-002 feature.
 		}
+
+		static void Test()
+		{
+			// Fixed critical bug Admin-003.
+		}
 	}
 }
